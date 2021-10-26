@@ -17,6 +17,7 @@
     "typescript": "^4.4.4",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://27bslash.github.io/fcc-simon-says",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -42,6 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://27bslash.github.io/fcc-simon-says"
+  }
 }
